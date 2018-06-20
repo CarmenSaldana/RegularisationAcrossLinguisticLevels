@@ -2,7 +2,7 @@
 
 This text file explains 'Saldanaetal2018LLD_experimental_data.csv' (experimental data) and 'Saldanaetal2018LLD_questionnaire_data.csv' (post-experiment questionnaires data), the supporting data files for the experiments in the submitted manuscript ’Is regularisation uniform across linguistic levels? Comparing learning and production of unconditioned probabilistic variation in morphology and word order'.<br />
 
-In `Saldanaetal2018LLD_experimental_data.csv’, the descriptions of the column headings are as follows:<br />
+## In `Saldanaetal2018LLD_experimental_data.csv’, the descriptions of the column headings are as follows:<br />
 
 Experiment -- type of production task, isolate production ('ISO') or dyadic interaction ('DYAD')<br />
 Condition -- experimental condition ('Morphology', 'Word Order', 'NoL1 Word Order', 'Morphology Dyads' and 'Word Order Dyads')<br />
@@ -20,7 +20,7 @@ GrammaticalityJudgment -- participants's judgment of whether the displayed descr
 Timestamp -- time of data collection<br />
  
 
-In `Saldanaetal2018LLD_questionnaire_data.csv’, the descriptions of the column headings are as follows:<br />
+## In `Saldanaetal2018LLD_questionnaire_data.csv’, the descriptions of the column headings are as follows:<br />
 
 Experiment -- type of production task, isolate production ('ISO') or dyadic interaction ('DYAD')<br />
 Condition -- experimental condition ('Morphology', 'Word Order', 'NoL1 Word Order', 'Morphology Dyads' and 'Word Order Dyads')<br />
