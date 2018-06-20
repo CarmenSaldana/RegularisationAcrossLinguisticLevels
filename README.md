@@ -1,6 +1,6 @@
-# RegularisationAcrossLinguisticLevels
+# Regularisation Across Linguistic Levels
 
-# This text file explains 'Saldanaetal2018LLD_experimental_data.csv' (experimental data) and 'Saldanaetal2018LLD_questionnaire_data.csv' (post-experiment questionnaires data), the supporting data files for the experiments in the submitted manuscript ’Is regularisation uniform across linguistic levels? Comparing learning and production of unconditioned probabilistic variation in morphology and word order'.
+This text file explains 'Saldanaetal2018LLD_experimental_data.csv' (experimental data) and 'Saldanaetal2018LLD_questionnaire_data.csv' (post-experiment questionnaires data), the supporting data files for the experiments in the submitted manuscript ’Is regularisation uniform across linguistic levels? Comparing learning and production of unconditioned probabilistic variation in morphology and word order'.
 
 In `Saldanaetal2018LLD_experimental_data.csv’, the descriptions of the column headings are as follows:
 
