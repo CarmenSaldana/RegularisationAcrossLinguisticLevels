@@ -1,4 +1,4 @@
-# Regularisation Across Linguistic Levels: experimental data sets [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1296385.svg)](https://doi.org/10.5281/zenodo.1296385)
+# Regularisation Across Linguistic Levels: experimental data sets
 
 This text file explains the supporting data files for the experiments in the submitted manuscript ’Is regularisation uniform across linguistic levels? Comparing learning and production of unconditioned probabilistic variation in morphology and word order'. You can find the code and stims used to run the experiments in `Experiment.zip` [`Python 2.7`, `PsychoPy v1.82.01`]
 
